@@ -1,0 +1,6 @@
+
+
+Hello User
+This is a text file being read to you.
+Talking about this application, you can convert speech from various languages to text with or without including emojis. You can also convert text from files to speech, like this one.
+Hope you have a good time here. Thank you!
